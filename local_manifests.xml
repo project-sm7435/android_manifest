@@ -4,10 +4,10 @@
   <remote name="ZetyaWyn" fetch="https://github.com/ZetyaWyn/" />
 
   <!-- Device tree -->
-  <project path="device/xiaomi/garnet" name="device_xiaomi_garnet" remote="project-sm7435" revision="Staging" />
+  <project path="device/xiaomi/garnet" name="device_xiaomi_garnet" remote="project-sm7435" revision="16.2" />
 
   <!-- Vendor blobs -->
-  <project path="vendor/xiaomi/garnet" name="vendor_xiaomi_garnet" remote="project-sm7435" revision="16.0" />
+  <project path="vendor/xiaomi/garnet" name="vendor_xiaomi_garnet" remote="project-sm7435" revision="16.2" />
 
   <!-- Kernel -->
   <project path="kernel/xiaomi/sm7435" name="android_kernel_xiaomi_sm7435" remote="project-sm7435" revision="16.2" />
@@ -23,7 +23,7 @@
   <project path="device/xiaomi/garnet-miuicamera" name="device_xiaomi_garnet-miuicamera" remote="ZetyaWyn" revision="Leica" />
 
   <!-- Dolby -->
-  <project path="hardware/dolby" name="hardware_dolby" remote="project-sm7435" revision="16" />
+  <project path="hardware/dolby" name="hardware_dolby" remote="project-sm7435" revision="16.2" />
 
   <!-- Hardware -->
   <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="project-sm7435" revision="lineage-23.2" />
