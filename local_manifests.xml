@@ -24,7 +24,7 @@
   <project path="device/axion/common"
            name="android_device_axion_common"
            remote="project-sm7435"
-           revision="Lineage-23.2" />
+           revision="lineage-23.2" />
 
 
   <!-- Vendor blobs -->
